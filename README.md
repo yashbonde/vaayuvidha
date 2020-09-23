@@ -2,14 +2,7 @@
 Destination Brazil!
 
 ## Structure
-The repo is aimed as a quick hacky scripts and not a proper project developement. To this end following are the files and things:
-
-1. [tests/](tests/): Files used for developing actual models on super small scale
-2. [model.py](model.py): main model file
-3. [train.py](train.py): main training file
-4. [config.json](config.json): JSON configuration
-5. [utils.py](utils.py): utility functions and objects used during training
-
+Not using the old system, I am doing the o2f way, simple and straight fucking forward.
 
 ## Literature
 
