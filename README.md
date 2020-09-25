@@ -24,3 +24,6 @@ pip3 install torch-geometric
 Since we are using `pytorch-geometric` things can become super easy, when making the graph neural networks. In order to test out lstm-rnn run the file [rnn_test.py](tests/text_rnn.py). LSTMs have a hidden state which means it can carry previous information in a certain `state`, which can be reasoned as, modeling the data. This makes it perfect for problems that require knowledge over very long time steps, in our case this can be 100s of step before. All these make LSTMs the obvious choice.
 
 Only thing is that they are super difficult to train!
+
+## Network 2
+
